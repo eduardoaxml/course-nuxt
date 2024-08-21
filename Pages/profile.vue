@@ -9,17 +9,3 @@
         middleware: ["auth"],
     });
 </script>
-
-<!-- <script>
-definePageMeta({
-    layout: 'default',
-})
-
-
-</script> -->
-
-<!-- <script>
-    definePageMeta({
-        layout: false,
-    });
-</script> -->
